@@ -9,3 +9,7 @@ Sumérgete en un infierno retro de balaceras brutales y combates cuerpo a cuerpo
 🕵️‍♂️ HISTORIA ENIGMÁTICA: ¿Quién está detrás de los mensajes telefónicos? ¿Eres un héroe o un psicópata?
 
 "La ciudad está podrida... y tú eres la cura."
+
+AVISO
+
+Cuando lo monten en Unity, la carpeta que falta se creara automaticamente, es la de Library, tiene demasiados archivos.
