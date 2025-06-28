@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Ciudad.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Callejon.unity
+    guid: df1f948e09d59574e9d99e67fc1838a5
+  - enabled: 1
+    path: Assets/Scenes/Telefono-Sonido.unity
+    guid: b9922064d11453543b735f795c52f82e
   m_configObjects: {}
